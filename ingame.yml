@@ -1,4 +1,3 @@
 messages:
-  - "&a&l[CreateNow] &7Remove adverts and upgrade to a paid plan today!&r\n&eGet started now at &acreatenowhq.com"
-  - "&a&l[CreateNow] &7Join our discord community at&r\n&bdiscord.createnowhq.com"
-  - "&a&l[CreateNow] &7Peep out our Twitter for some epic memes&r\n&btwitter.com/@CreateNowHQ"
+  - "<green><b>CREATENOW:</b></green> <aqua>Join our Discord Server</aqua><newline><white>discord.createnowhq.com</white>"
+  - "<green><b>CREATENOW:</b></green> <yellow>Purchase paid plan to remove ads:</yellow><newline><gold>createnowhq.com/store/minecraft-standard</gold>"
